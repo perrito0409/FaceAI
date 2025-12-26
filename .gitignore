@@ -1,2 +1,6 @@
-*.jpg
+# *.jpg
 *.png
+venv/
+__pycache__/
+*.pyc
+# *.mp4
